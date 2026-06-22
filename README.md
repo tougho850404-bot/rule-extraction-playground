@@ -33,4 +33,4 @@ The application was created using Generative AI and Lovable.
 
 ## Author
 
-Touria Hussein
+Touria ghoulam
